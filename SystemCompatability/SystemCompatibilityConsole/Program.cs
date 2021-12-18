@@ -15,7 +15,7 @@ namespace SystemCompatibilityConsole
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Camera Detection Exception" + ex.Message + ex.StackTrace);
+                Console.WriteLine("Camera Detection Exception" + ex.Message + ex.StackTrace + "\n");
             }
         }
 
