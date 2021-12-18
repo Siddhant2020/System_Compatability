@@ -1,0 +1,11 @@
+*/obj/*
+*/bin/*
+Setup*
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+**/*.pdb
+**/*.exe
+**/*.dll
+**/*.suo
